@@ -3,7 +3,7 @@
 # (str) Title of your application
 title = Official0megaHexConv
 
-# (str) Package name
+# (str) Package name..
 package.name = converter
 
 # (str) Package domain (needed for android/ios packaging)
